@@ -1,2 +1,6 @@
-Versios
+Versions
+<<<<<<< HEAD
 v2
+=======
+v1
+>>>>>>> 8ec24e8 (Ajout de la version v1)
